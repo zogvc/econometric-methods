@@ -1,2 +1,2 @@
-# python-econometrics
-Python code for basic econometric methods.
+# Econometric Methods
+Study notes on basic econometric methods with python codes.
